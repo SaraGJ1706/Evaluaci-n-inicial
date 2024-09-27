@@ -32,12 +32,14 @@
 	* Es lo que va siempre delante de un enlace.
 
 `` <!DOCTYPE html>``
-`` <HTML lang="en">
+`` <HTML lang="en">``
+
 <head>
     <meat charset="UTF-8">
     <meat http="X-UA-Compatible" content="IE=Edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0>
     <title>Document</title>
+
 </head>
 <body>
 
