@@ -26,13 +26,12 @@
 |Google Sheets|
 |Google Calendar|
 |Google Meet|
-|Zebra stripes|...|
 
 6. ¿Qué es `` HTLM``?
 
 	* Es lo que va siempre delante de un enlace.
 
-`<!DOCTYPE html>
+`` <!DOCTYPE html>
 <HTML lang="en">
 <head>
 
@@ -45,16 +44,17 @@
 <body>
 
 </body>
-</html>`
+</html>``
 
 
 7. ¿Qué es una `` CCS``?
 
 	* No lo se.
 
+
 8. Flujo de trabajo  (navegador, petición, servidor y respuesta):
 
-
+![Flujo de trabajo](https://github.com/SaraGJ1706/Evaluaci-n-inicial/blob/main/Flujo%20de%20trabajo.png)
 
 
 
