@@ -26,8 +26,34 @@
 |Google Sheets|
 |Google Calendar|
 |Google Meet|
-|...|...|
+|Zebra stripes|...|
 
-6. ¿Qué es ``# HTLM``?
+6. ¿Qué es `` HTLM``?
+
+	* Es lo que va siempre delante de un enlace.
+
+``<!DOCTYPE html>``
+``<HTML lang="en">``
+``<head>``
+    ``<meat charset="UTF-8">``
+    ``<meat http="X-UA-Compatible" content="IE=Edge">``
+    ``<meta name="viewport" content="width=device-width, initial-scale=1.0>``
+    ``<title>Document</title>``
+``</head>``
+``<body>``
+
+``</body>``
+``</html>``
+
+
+7. ¿Qué es una `` CCS``?
+
+	* No lo se.
+
+8. Flujo de trabajo  (navegador, petición, servidor y respuesta):
+
+
+
+
 
 
