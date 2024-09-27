@@ -31,7 +31,7 @@
 
 	* Es lo que va siempre delante de un enlace.
 
-<!DOCTYPE html>
+`` <!DOCTYPE html>
 <HTML lang="en">
 <head>
 
@@ -44,7 +44,8 @@
 <body>
 
 </body>
-</html>
+</html>``
+
 
 
 7. ¿Qué es una `` CCS``?
