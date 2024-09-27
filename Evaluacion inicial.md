@@ -45,15 +45,6 @@
 </html>```
 
 
-7. ¿Qué es una `` CCS``?
-
-	* No lo se.
-
-
-8. Flujo de trabajo  (navegador, petición, servidor y respuesta):
-
-![Flujo de trabajo](https://github.com/SaraGJ1706/Evaluaci-n-inicial/blob/main/Flujo%20de%20trabajo.png)
-
 
 
 
