@@ -43,3 +43,10 @@
 
 </body>
 </html>``
+
+7. ¿Qué es `` CSS``?
+
+	*
+
+8. Flujo de trabajo (navegador, petición, servidor y respuesta):
+
