@@ -31,12 +31,9 @@
 
 	* Es lo que va siempre delante de un enlace.
 
-`` <!DOCTYPE html>
-
+`` <!DOCTYPE html>``
 <HTML lang="en">
-
 <head>
-
 
     <meat charset="UTF-8">
     <meat http="X-UA-Compatible" content="IE=Edge">
